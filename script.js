@@ -43,5 +43,5 @@ storiyan.addEventListener("click",function(dets){
     setTimeout(function(){
         document.querySelector("#full").style.display="none"
 
-    },2500)
+    },2000)
 });
